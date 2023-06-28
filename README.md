@@ -1,4 +1,4 @@
-### Hi! I'm Chani Maybruch. :wave: I'm a Data Scientist interested in helping your company achieve its goals!
+### Hi! I'm Chani Maybruch. :wave: As a Data Scientist I can't wait to help your company achieve its goals!
 
 I have always been fascinated by data analysis and machine learning. Throughout my 15+ years working as an educator and social-organizational psychologist, I have found that the best decisions are research-based and data-driven. 
 
