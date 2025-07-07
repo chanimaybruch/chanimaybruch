@@ -6,6 +6,8 @@ When AI captured my curiosity, I leaned in, earning a data science certification
 
 Now, I’m excited to bring my unique blend of qualitative depth and analytical precision to roles in UX research, qualitative research, or product management - especially in the AI and LLM space, where human-centered design is more vital than ever.
 
+Have fun exploring my portfolio below!
+
 🛠 Tools of the trade: Python, SQL, Power BI, Tableau, Excel  
 
 📊 Passion projects: Building dynamic dashboards and exploring rich datasets in my spare time.  
