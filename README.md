@@ -1,16 +1,13 @@
-### Hi! I'm Chani Maybruch. :wave: Understanding people is my passion. I can't wait to help your company achieve its goals!
+👋 Hi there, I’m Chani.
 
-I have always been fascinated by listening to people, understanding their thoughts and feelings, and finding ways to improve their lives. In my 20+ years as a social psychologist and trainer, I have honed my ability to connect with people and gain insight on how to help them. Through interviews, focus groups, and surveys, I enjoy discovering opportunities for improvement and how to get there.
+A lifelong people-listener and story-seeker, I’ve spent over two decades as a social psychologist and trainer, helping individuals and organizations thrive by deeply understanding what drives human behavior. Through interviews, focus groups, and surveys, I’ve developed a knack for uncovering meaningful insights and translating them into opportunities for change.
 
-Fast forward to when AI became really hot!
+When AI captured my curiosity, I leaned in—earning a data science certification from a rigorous 9-month bootcamp in 2023. Along the way, I dove into Python, SQL, machine learning, and data analysis, building end-to-end projects that tackled real-world challenges like customer churn, profit forecasting, text classification, and image recognition.
 
-Captivated by AI, I earned certification in data science - learning data analysis, Python, SQL, and machine learning, graduating in June 2023.
+Now, I’m excited to bring my unique blend of qualitative depth and analytical precision to roles in UX research, qualitative research, or product management—especially in the AI and LLM space, where human-centered design is more vital than ever.
 
-During my journey, I coded projects to address real business issues such as customer churn, forecasting profit and risk, text classification, time series forecasting, price prediction, and image classification. I am proficient in SQL, Python, Power BI, Tableau, and Excel and always looking to expand my skillset. A quick learner, I enjoy the challenge of learning new technolgies, analyzing complex datasets, and explaining the story behind data. 
-
-
- - :bar_chart: In my spare time, I enjoy analyzing complex datasets and creating dynamic reports in PowerBI and Tableau.
- - :telephone_receiver: How to reach me: in social networks or at drchanimaybruch@gmail.com
- - :star: Fun fact: I write a relationship advice column in a NY/NJ area newspaper printing 20K copies weekly.
-
+🛠 Tools of the trade: Python, SQL, Power BI, Tableau, Excel 
+📊 Passion projects: Building dynamic dashboards and exploring rich datasets in my spare time 
+✉️ Get in touch: drchanimaybruch@gmail.com 
+✨ Fun fact: I write a weekly relationship advice column for a NY/NJ newspaper with 20K readers
 
