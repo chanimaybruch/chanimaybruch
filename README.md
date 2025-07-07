@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Chani.
+a### 👋 Hi there, I’m Chani.
 
 A lifelong people-listener and story-seeker, I’ve spent over two decades as a social psychologist and trainer, helping individuals and organizations thrive by deeply understanding what drives human behavior. Through interviews, focus groups, and surveys, I’ve developed a knack for uncovering meaningful insights and translating them into opportunities for change.
 
