@@ -6,8 +6,8 @@ When AI captured my curiosity, I leaned in, earning a data science certification
 
 Now, I’m excited to bring my unique blend of qualitative depth and analytical precision to roles in UX research, qualitative research, or product management - especially in the AI and LLM space, where human-centered design is more vital than ever.
 
-🛠 Tools of the trade: Python, SQL, Power BI, Tableau, Excel 
-📊 Passion projects: Building dynamic dashboards and exploring rich datasets in my spare time 
-✉️ Get in touch: drchanimaybruch@gmail.com 
-✨ Fun fact: I write a weekly relationship advice column for a NY/NJ newspaper with 20K readers
+🛠 Tools of the trade: Python, SQL, Power BI, Tableau, Excel < br / > 
+📊 Passion projects: Building dynamic dashboards and exploring rich datasets in my spare time.  < br / > 
+✉️ Get in touch: drchanimaybruch@gmail.com < br / > 
+✨ Fun fact: I write a weekly relationship advice column for a NY/NJ newspaper with 20K readers. < br / > 
 
